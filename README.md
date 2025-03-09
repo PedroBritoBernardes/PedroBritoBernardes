@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroBritoBernardes
 - 👀 I’m interested in new projects and programers friends to share experinces.
-- 🌱 I’m currently learning python, JavaScript and AI
+  
 - 💞️ I’m looking to collaborate on new projects to get new experiences
 - 📫 How to reach me: +44 7742825778 whatsApp
 - 😄 Pronouns: Male
